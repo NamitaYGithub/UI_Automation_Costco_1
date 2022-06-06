@@ -18,7 +18,7 @@ https://sites.google.com/chromium.org/driver/downloads
 
 Git:
 
-    git clone https://github.com/NamitaYGithub/Costco_UI_Automation.git
+    git clone https://github.com/NamitaYGithub/UI_Automation_Costco_1.git
     
 
 ### The project directory structure :
@@ -49,4 +49,4 @@ To run the sample project, you can either just run the `CucumberTestSuite` test 
 
 If you want to run individual feature, Right click feature file and select `Run : Feature `
 
-The test results will be recorded in the `target/site/serenity`   directory.
+The test results will be recorded in the `target/site/serenity` directory.
